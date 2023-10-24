@@ -41,4 +41,4 @@ cad=`
 </div>
 `
 
-document.querySelector("main").innerHTML = cad 
+document.querySelector("main").innerHTML = cad
