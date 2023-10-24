@@ -11,7 +11,7 @@
     grid-gap: 15px;    
     grid-template-columns: repeat(2, 1fr);
     grid-template-areas: "map";
-    grid-template-areas: "mapbutton";       
+    grid-template-areas: "mapbutton";  
 }
 
 #locale .map{

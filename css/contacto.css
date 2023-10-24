@@ -10,7 +10,7 @@
     grid-gap: 15px;
     grid-template-columns: repeat(2, 1fr);
     grid-template-areas: "con1";
-    grid-template-areas: "formulario";
+    grid-template-areas: "formulario"; 
 }
 
 #contacto .con1, .formulario{
