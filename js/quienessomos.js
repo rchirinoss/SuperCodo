@@ -26,7 +26,7 @@ cad=`
             <p><b>Edad:</b> 41 años</p>
             <p><b>Ocupación:</b> Profesora de Ingles</p>
             <p><b>Educación:</b> Tecnica Superior en Programacion - UTN</p>
-            <p><b>Lenguajes:</b> HTML, CSS, JAVASCRIPT, PYTHON, VISUAL BASIC, MYSQL</p> 
+            <p><b>Lenguajes:</b> HTML, CSS, JAVASCRIPT, PYTHON, VISUAL BASIC, MYSQL</p>  
         </div>
         <div class="renzo">
             <img src="./images/main/renzo.webp" alt="renzo">
