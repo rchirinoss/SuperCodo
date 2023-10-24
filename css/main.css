@@ -138,7 +138,8 @@ main .wsp{
 }
 
 main .wsp:hover{
-    animation: pulse 1s;
+    animation: swing;
+    animation-duration: 5s;
 }
 
 main .wsp img{        

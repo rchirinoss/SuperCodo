@@ -68,7 +68,7 @@ cad = `
         <li class="title">Somos Super Codo</li>
         <li>FAQs</li>
         <li>Trabajá en Super Codo </li>
-        <li><a href="quienes_somos.html">Quienes somos</a></li>
+        <li><a href="quienessomos.html">Quienes somos</a></li>
         <li><a href="sucursales.html">Nuestras Sucursales</a></li>
     </ul>
     <ul class="list3">

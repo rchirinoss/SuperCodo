@@ -203,27 +203,33 @@ footer{
 #content .c1, .c2{
     width: 100%;
     text-align: center;
-    padding-block: 5px;
+    padding-block: 5px;    
 }
 
 
 #content img{
     width: 25px;
     margin-inline: 5px;
+    margin-top: 5px;
+    
 }
 
 #content p{
+    width: 90%;
     font-size: 16px;
     color: white;
     background-color: #444;
     padding-block: 3px;
     margin-bottom: 2px;
+    margin-inline: auto;
+    border: 1px solid #444;
+    border-radius: 50px;
 }
  
-#content a{
+#content .c2 a{
     font-size: 20px;
     text-decoration: none;
-    color: white;    
+    color: white;  
 }
 
 #content img:hover{
@@ -234,7 +240,7 @@ footer{
     FOOTER PARA CELULARES
     ---------------------- */
 @media screen and (max-width: 550px){
-    #content a{
+    #content .c2 a{
     font-size: 16px;        
     }  
 }
@@ -261,13 +267,17 @@ footer .list1, .list2, .list3, .list4{
 }
 
 .grid ul{
-    padding-block: 5px;
+    padding-block: 5px;    
 }
 
 .grid .title{
+    width: 90%;
     font-size: 16px;
     padding-block: 3px;
     background-color: #444;
+    margin-inline: auto;
+    border: 1px solid #444;
+    border-radius: 50px;
 }
 
 .grid ul li, a{

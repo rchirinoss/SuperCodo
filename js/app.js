@@ -105,7 +105,7 @@ function agregarItemAlCarrito(titulo, precio, imagenSrc){
                 <span class="carrito-item-precio">${precio}</span>
             </div>
             <button class="btn-eliminar">
-                <i><img src="./images/main/eliminar.png" alt="" ></i>
+                <i><img src="./images/main/eliminar.webp" alt="" ></i>
             </button>
         </div>
     `

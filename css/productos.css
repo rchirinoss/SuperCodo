@@ -56,7 +56,7 @@
     grid-gap: 20px;
     margin-left: auto;
     margin-right: auto;
-    contain: paint;
+    /*contain: paint;*/
     align-content: center;
 }
 
@@ -159,7 +159,7 @@
     SECCION CARRITO
     ---------------- */
     .carrito{
-        border: 1px solid #666;
+        border: 1px solid #5271FF;
         width: 35%;
         margin-top: 30px;
         border-radius: 10px;
@@ -173,23 +173,25 @@
         opacity: 0;
     }
     .carrito .header-carrito{
-        background-color: #000;
+        background-color: #5271FF;
         color: #fff;
         text-align: center;
-        padding: 30px 0;
+        padding: 20px 0;
     }
     .carrito .carrito-item{
+        color: #444;
         display: flex;
         align-items: center;
         /* justify-content: space-between; */
         position: relative;
-        border-bottom: 1px solid #666;
+        border-bottom: 1px solid #5271FF;
         padding: 20px;
     }
     .carrito .carrito-item img{
         margin-right: 20px;
     }
     .carrito .carrito-item .carrito-item-titulo{
+        color: #444;
         display: block;
         font-weight: bold;
         margin-bottom: 10px;
@@ -216,7 +218,7 @@
         line-height: 32px;
         text-align: center;
         border-radius: 50%;
-        border: 1px solid #000;
+        border: 1px solid #5271FF;
         cursor: pointer;
     }
     
@@ -243,7 +245,7 @@
         line-height: 40px;
         text-align: center;
         border-radius: 50%;
-        border: 1px solid #000;
+        border: 1px solid #5271FF;
         cursor: pointer;
         display: block;
         background: transparent;
@@ -255,15 +257,16 @@
     
     .carrito .carrito-items .btn-eliminar img{
         width: 30px;
-        padding-left: 9px;
-        padding-top: 9px ;
+        padding-left: 8px;
+        padding-top: 8px ;
     }
     
     .carrito-total{
         background-color: #f3f3f3;
-        padding: 30px;
+        padding: 20px;
     }
     .carrito-total .fila{
+        color: #444;
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -275,11 +278,11 @@
         display: block;
         width: 100%;
         border: none;
-        background: #000;
+        background: #5271FF;
         color: #fff;
         border-radius: 5px;
-        font-size: 18px;
-        padding: 20px;
+        font-size: 20px;
+        padding: 10px;
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -291,7 +294,7 @@
     }
     
     .carrito-total .btn-pagar img{
-        width: 30px;
+        width: 35px;
     }
 
 
@@ -335,3 +338,13 @@
     }
 }
 
+.volver{
+    text-align: center;
+    margin-block: 5px;
+}
+.volver a{    
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #5271FF;
+    text-decoration: none;
+}
