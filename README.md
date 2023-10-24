@@ -13,7 +13,7 @@ El propósito de nuestro proyecto es promocionar y aumentar las ventas de un sup
 La idea inicial arranco con un boceto presentado por uno de los integrantes, y sobre ese boceto se fue haciendo observaciones y modificaciones.
 https://supercodo.netlify.app/images/main/boceto.png
  
-Teniendo en cuenta la opinión de cada uno, pensamos un nombre, inventamos un logo, creamos un repositorio, y comenzamos a trabajar en simultaneo en distintas ramas.
+Teniendo en cuenta la opinión de cada uno, pensamos un nombre, inventamos un logo, creamos un repositorio, y comenzamos a trabajar en simultaneo en distintas ramas. 
 
 En todo momento nos encontramos comunicados mediante un grupo de WhatsApp, donde organizamos el trabajo, compartimos cada modificación y despejamos dudas.
 
